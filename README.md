@@ -1,3 +1,4 @@
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# rails_mongo_api_app
+Basic Rails mongo api only app using ruby as a sample application
+
